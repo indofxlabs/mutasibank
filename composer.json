@@ -1,0 +1,46 @@
+{
+    "name": "indofx/mutasibank",
+    "description": "Mutasibank.co.id API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Indofx\\Mutasibank\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Indofx\\Mutasibank\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "Indofx",
+            "email": "iupin5212@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Indofx\\Mutasibank\\ServiceProvider"
+            ],
+            "aliases": {
+                "Mutasibank": "Indofx\\Mutasibank\\Facades\\Mutasibank"
+            }
+        }
+    },
+    "require": {
+        "php": ">=7.2|^8.0",
+        "aslam/response": "^1.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "illuminate/support": "^6.0 || ^7.0 || ^8.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
