@@ -4,16 +4,16 @@ Laravel PHP library untuk mengintegrasikan Aplikasi Anda dengan API Mutasibank (
 
 ## Fitur Library
 
-- [Installasi](https://github.com/indofx/mutasibank.co.id#instalasi)
-- [Setting](https://github.com/indofx/mutasibank.co.id#setting)
-- [Get Current User](https://github.com/indofx/mutasibank.co.id#get-current-user)
-- [Get All Accounts](https://github.com/indofx/mutasibank.co.id#get-all-accounts)
-- [Get Account by ID](https://github.com/indofx/mutasibank.co.id#get-account-by-id)
-- [Validate Transaction](https://github.com/indofx/mutasibank.co.id#validate-transaction)
-- [Re-run Check Mutasi](https://github.com/indofx/mutasibank.co.id#re-run-check-mutasi)
-- [Match Transaction](https://github.com/indofx/mutasibank.co.id#match-transaction)
-- [Get Account Statements](https://github.com/indofx/mutasibank.co.id#get-account-statements)
-- [On Off Account](https://github.com/indofx/mutasibank.co.id#on-off-account)
+- [Installasi](https://github.com/indofxlabs/mutasibank.co.id#instalasi)
+- [Setting](https://github.com/indofxlabs/mutasibank.co.id#setting)
+- [Get Current User](https://github.com/indofxlabs/mutasibank.co.id#get-current-user)
+- [Get All Accounts](https://github.com/indofxlabs/mutasibank.co.id#get-all-accounts)
+- [Get Account by ID](https://github.com/indofxlabs/mutasibank.co.id#get-account-by-id)
+- [Validate Transaction](https://github.com/indofxlabs/mutasibank.co.id#validate-transaction)
+- [Re-run Check Mutasi](https://github.com/indofxlabs/mutasibank.co.id#re-run-check-mutasi)
+- [Match Transaction](https://github.com/indofxlabs/mutasibank.co.id#match-transaction)
+- [Get Account Statements](https://github.com/indofxlabs/mutasibank.co.id#get-account-statement)
+- [On Off Account](https://github.com/indofxlabs/mutasibank.co.id#on-off-account)
 
 ### INSTALASI
 
